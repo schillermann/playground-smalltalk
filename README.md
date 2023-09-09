@@ -1,0 +1,2 @@
+# playground-smalltalk
+Discover Smalltalk
