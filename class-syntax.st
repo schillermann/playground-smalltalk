@@ -12,6 +12,7 @@ Object subclass: AccountA [
 
   AccountA class[
     new[
+      "super stands for AccountA"
       ^super new init
     ]
   ]
@@ -57,9 +58,10 @@ AccountB comment:
 !AccountB class methodsFor: 'instance creation'!
 new
   | r |
-   r := super new.
-   r init.
-   ^r
+  "super stands for AccountB"
+  r := super new.
+  r init.
+  ^r
 ! !
 
 !AccountB methodsFor: 'instance initialization'!
