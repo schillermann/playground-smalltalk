@@ -1,4 +1,5 @@
-"https://www.gnu.org/software/smalltalk/manual/html_node/Creating-classes.html#Creating-classes"
+"https://www.gnu.org/software/smalltalk/manual/html_node/Syntax.html"
+"https://www.gnu.org/software/smalltalk/manual/html_node/Creating-classes.html"
 "https://jcsites.juniata.edu/faculty/rhodes/lt/smlltalktutor.htm"
 
 "In Smalltalk different syntax can be used to create a class"
